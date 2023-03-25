@@ -1,0 +1,18 @@
+.Banner{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(3, 3, 196);
+    text-align: center;
+    color:white;
+    height:2dvi;
+    width: 100%;
+
+
+}
+
+.logo{
+    height: 200px;
+    width: 500px;
+}
+.materias{
+    text-align: left;
+}
